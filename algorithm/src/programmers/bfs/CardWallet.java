@@ -1,4 +1,4 @@
-package programmers;
+package programmers.bfs;
 
 public class CardWallet {
     /*
